@@ -8,7 +8,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-lg main_menu">
                 <div className="container main_menu_bg">
                     <NavLink className="navbar-brand logo-container" to="/">
-                        <img src="assets/images/logo.png" alt="JAHANZAIB" className="img-fluid w-100" />
+                        <img src="assets/images/logo.png" alt="JAHANZAIB" className="img-fluid w-100" style={{ width: '100%', height: '100%' }} />
                         <h2>JAHANZAIB</h2>
                     </NavLink>
                     <button

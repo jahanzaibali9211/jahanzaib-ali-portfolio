@@ -43,7 +43,7 @@ const Sideform = () => {
             <div className="offcanvas-body">
                 <div className="tf__design_form offcanvas_form">
                     <div className="offcanvas-content-box">
-                        <h4 className="offcanvas_title">About us</h4>
+                        <h3 className="offcanvas_title">About us</h3>
                         <p>
                             I'm a passionate and results-driven Web Developer, constantly striving to enhance my skills and deliver high-quality solutions. I enjoy crafting innovative and user-friendly web experiences.
                         </p>
