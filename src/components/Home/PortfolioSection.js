@@ -31,7 +31,9 @@ const PortfolioSection = () => {
                             <img
                                 src="assets/images/portfolio/proudwriting.png"
                                 alt="Project 1"
-                                className="img-fluid w-100"
+                                className="img-fluid"
+                                width="100%" height="100%"
+                                title="ProUDWritings - Project" loading="lazy"
                             />
 
                             <div className="text">
@@ -51,7 +53,9 @@ const PortfolioSection = () => {
                             <img
                                 src="assets/images/portfolio/dezignmart.png"
                                 alt="Project 2"
-                                className="img-fluid w-100"
+                                className="img-fluid"
+                                width="100%" height="100%"
+                                title="Dezignmart - Project" loading="lazy"
                             />
                             <div className="text">
                                 <h4>Dezignmart - Crafting Digital Experiences</h4>
@@ -70,7 +74,9 @@ const PortfolioSection = () => {
                             <img
                                 src="assets/images/portfolio/prouk.webp"
                                 alt="Project 3"
-                                className="img-fluid w-100"
+                                className="img-fluid"
+                                width="100%" height="100%"
+                                title="ProUKWritings - Project" loading="lazy"
                             />
                             <div className="text">
                                 <h4>ProUKWritings - Educational Help Website</h4>
@@ -89,7 +95,9 @@ const PortfolioSection = () => {
                             <img
                                 src="assets/images/portfolio/onlineexam.png"
                                 alt="Project 4"
-                                className="img-fluid w-100"
+                                className="img-fluid"
+                                width="100%" height="100%"
+                                title="OnlineExamPros - Project" loading="lazy"
                             />
                             <div className="text">
                                 <h4>OnlineExamPros - Academic Help Website</h4>
@@ -107,7 +115,9 @@ const PortfolioSection = () => {
                             <img
                                 src="assets/images/portfolio/ecom1.png"
                                 alt="Project 5"
-                                className="img-fluid w-100"
+                                className="img-fluid"
+                                width="100%" height="100%"
+                                title="Ecomwizards - Project" loading="lazy"
                             />
                             <div className="text">
                                 <h4>Ecomwizards - Elevating Digital Presence</h4>

@@ -22,7 +22,9 @@ const ServiceSection = () => {
                 <img
                   src="assets/svg/web-development.svg"
                   alt="Web Development"
-                  className="svg w-100"
+                  className="svg"
+                  width="100%" height="100%"
+                  title="Web Development Service" loading="lazy"
                 />
               </span>
               <h3>Web Development</h3>
@@ -37,7 +39,9 @@ const ServiceSection = () => {
                 <img
                   src="assets/svg/seo.svg"
                   alt="SEO"
-                  className="svg w-100"
+                  className="svg"
+                  width="100%" height="100%"
+                  title="SEO Service" loading="lazy"
                 />
               </span>
               <h3>SEO</h3>
@@ -52,7 +56,9 @@ const ServiceSection = () => {
                 <img
                   src="assets/svg/web-hosting.svg"
                   alt="Hosting Management"
-                  className="svg w-100"
+                  className="svg"
+                  width="100%" height="100%"
+                  title="Hosting Management Service" loading="lazy"
                 />
               </span>
               <h3>Hosting Management</h3>

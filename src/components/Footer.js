@@ -20,7 +20,9 @@ const Footer = () => {
                                                 <img
                                                     src="assets/svg/map.svg"
                                                     alt="footer"
-                                                    className="img-fluid w-100 svg"
+                                                    className="img-fluid svg"
+                                                    width="100%" height="100%"
+                                                    title="Address" loading="lazy"
                                                 />
                                             </div>
                                         </div>
@@ -41,7 +43,9 @@ const Footer = () => {
                                                 <img
                                                     src="assets/svg/phone.svg"
                                                     alt="footer"
-                                                    className="img-fluid w-100 svg"
+                                                    className="img-fluid svg"
+                                                    width="100%" height="100%"
+                                                    title="Contact" loading="lazy"
                                                 />
                                             </div>
                                         </div>
@@ -62,7 +66,9 @@ const Footer = () => {
                                                 <img
                                                     src="assets/svg/envelope.svg"
                                                     alt="footer"
-                                                    className="img-fluid w-100 svg"
+                                                    className="img-fluid svg"
+                                                    width="100%" height="100%"
+                                                    title="Email" loading="lazy"
                                                 />
                                             </div>
                                         </div>

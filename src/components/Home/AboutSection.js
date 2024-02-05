@@ -26,7 +26,9 @@ const AboutSection = () => {
               <img
                 src="assets/images/me.jpeg"
                 alt="Jahanzaib Ali Khan"
-                className="img-fluid w-100"
+                className="img-fluid"
+                width="100%" height="100%"
+                title="Jahanzaib Ali" loading="lazy"
               />
               <div className="tf__about_img_text">
                 <i className="fas fa-chart-pie-alt"></i>
