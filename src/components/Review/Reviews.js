@@ -15,7 +15,7 @@ const Reviews = () => {
   return (
     <div>
       <Navbar />
-      <Breadcrumb content={breadcrumbContent} pageTitle="Reviews"  />
+      <Breadcrumb content={breadcrumbContent} pageTitle="Team and Client Reviews"  />
       <TestimonialSection/>
       <SubscribeComponent />
       <Footer />

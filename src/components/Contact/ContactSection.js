@@ -48,7 +48,10 @@ const ContactSection = () => {
                     <img
                       src="assets/svg/complete-project.svg"
                       alt="Projects Completed"
-                      className="svg img-fluid w-100"
+                      className="img-fluid svg"
+                      width="100%" height="100%"
+                      title="Projects Completed"
+                      loading="lazy"
                     />
                   </span>
                   <h3><span className="counter">50</span>+</h3>
@@ -64,7 +67,10 @@ const ContactSection = () => {
                     <img
                       src="assets/svg/client-review.svg"
                       alt="Client Reviews"
-                      className="img-fluid w-100 svg"
+                      className="img-fluid svg"
+                      width="100%" height="100%"
+                      title="Client Reviews"
+                      loading="lazy"
                     />
                   </span>
                   <h3><span className="counter">20</span>+</h3>

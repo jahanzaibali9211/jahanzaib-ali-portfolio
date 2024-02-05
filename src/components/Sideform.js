@@ -1,5 +1,6 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
+import { Link } from 'react-router-dom';
 
 const Sideform = () => {
     const form = useRef();
@@ -28,9 +29,9 @@ const Sideform = () => {
     return (
         <div className="offcanvas offcanvas-end" tabIndex="-1" id="offcanvasRight">
             <div className="offcanvas-header">
-                <a className="offcanvas-logo" href="index_2.html">
+                <Link className="offcanvas-logo" to="/">
                     <h2>JAHANZAIB</h2>
-                </a>
+                </Link>
                 <button
                     type="button"
                     className="btn-close"

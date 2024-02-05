@@ -21,7 +21,10 @@ const TestimonialSection = () => {
                                     <img
                                         src={testimonial.imgSrc}
                                         alt="clients"
-                                        className="img-fluid w-100"
+                                        className="img-fluid"
+                                        width="100%" height="100%"
+                                        title={`Review ${testimonial.id}`}
+                                        loading="lazy"
                                     />
                                 </div>
                                 <p className="rating">

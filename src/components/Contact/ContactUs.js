@@ -15,7 +15,7 @@ const ContactUs = () => {
   return (
     <div>
       <Navbar />
-      <Breadcrumb content={breadcrumbContent} pageTitle="Contact" />
+      <Breadcrumb content={breadcrumbContent} pageTitle="Contact me for more info" />
       <ContactSection/>
       <SubscribeComponent />
       <Footer />
