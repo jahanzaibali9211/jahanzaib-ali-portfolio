@@ -6,6 +6,7 @@
   .main_menu_2 {
     overflow: auto;
   }
+
   .tf__blog_text ul {
     gap: 10px;
   }
@@ -57,9 +58,11 @@
   .main_menu_2 {
     overflow: auto;
   }
+
   .tf__blog_text ul {
     gap: 10px;
   }
+
   /*==============================
      HOME PAGE START
     ==============================*/
@@ -105,9 +108,11 @@
   .tf__design_form {
     padding: 40px;
   }
+
   .tf__footer_content {
     align-items: start;
   }
+
   .tf__footer_content .icon {
     width: 70px;
     height: 70px;
@@ -125,41 +130,6 @@
 
   /*==============================
      HOME PAGE END
-    ==============================*/
-
-  /*==============================
-     BLOG DETAILS START
-    ==============================*/
-  .tf__sidebar_item {
-    padding: 30px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 66%;
-  }
-
-  .tf__sidebar_gallery ul li {
-    width: 92px;
-    height: 92px;
-  }
-
-  .tf__breadcrumb {
-    padding: 160px 0px 60px 0px;
-  }
-
-  /*==============================
-     BLOG DETAILS END
-    ==============================*/
-
-  /*==============================
-     BLOG LIST START
-    ==============================*/
-  .tf__blog_list_img {
-    height: 370px;
-  }
-
-  /*==============================
-     BLOG LIST END
     ==============================*/
 
   /*==============================
@@ -222,6 +192,7 @@
 }
 
 @media (min-width: 992px) and (max-width: 1199.99px) {
+
   /*==============================
      HOME PAGE START
     ==============================*/
@@ -276,84 +247,23 @@
   .tf__design_form {
     padding: 40px;
   }
+
   .tf__footer_content {
     align-items: start;
   }
+
   .tf__footer_content .icon {
     width: 70px;
     height: 70px;
     margin-right: 20px;
   }
+
   .tf__design_counter p {
     font-size: 16px;
   }
+
   /*==============================
      HOME PAGE END
-    ==============================*/
-
-  /*==============================
-     BLOG DETAILS START
-    ==============================*/
-  .tf__breadcrum_text ul li a {
-    font-size: 16px;
-  }
-
-  .tf__breadcrumb {
-    padding: 195px 0px 100px 0px;
-  }
-
-  .tf__blog_details_img {
-    height: 400px;
-  }
-
-  .tf__input_comment h2 {
-    font-size: 26px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 63%;
-  }
-
-  .tf__sidebar_gallery ul li {
-    width: 70px;
-    height: 70px;
-  }
-
-  .tf__sidebar_tags ul li a {
-    padding: 10px 16px;
-  }
-
-  .tf__sidebar_item {
-    padding: 30px;
-  }
-
-  .tf__sidebar_comments ul li .img {
-    width: 70px;
-    height: 70px;
-    margin-right: 10px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 66%;
-  }
-
-  .tf__blog_details_text h2 {
-    font-size: 35px;
-  }
-
-  /*==============================
-     BLOG DETAILS END
-    ==============================*/
-
-  /*==============================
-     BLOG LIST START
-    ==============================*/
-  .tf__blog_list_img {
-    height: 320px;
-  }
-
-  /*==============================
-     BLOG LIST END
     ==============================*/
 
   /*==============================
@@ -425,6 +335,7 @@
 }
 
 @media (min-width: 768px) and (max-width: 991.99px) {
+
   /*==============================
      HOME PAGE START
     ==============================*/
@@ -575,15 +486,19 @@
   .tf__blog_img {
     height: 300px;
   }
+
   .tf__footer_content .text h3 {
     margin-bottom: 10px;
   }
+
   .tf__footer_content .text {
     width: 78%;
   }
+
   .tf__footer_content {
     align-items: start;
   }
+
   .tf__footer_content .icon {
     display: block;
     width: 75px;
@@ -620,61 +535,6 @@
 
   /*==============================
      HOME PAGE END
-    ==============================*/
-
-  /*==============================
-     BLOG DETAILS START
-    ==============================*/
-  .tf__breadcrum_text h1 {
-    font-size: 32px;
-  }
-
-  .tf__breadcrum_text ul li a {
-    font-size: 16px;
-  }
-
-  .tf__breadcrumb {
-    padding: 165px 0px 90px 0px;
-  }
-
-  .tf__blog_details_img {
-    height: 400px;
-  }
-
-  .tf__input_comment h2 {
-    font-size: 26px;
-  }
-
-  .tf__input_comment {
-    margin-bottom: 25px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 63%;
-  }
-
-  .tf__sidebar_gallery ul li {
-    width: 76px;
-    height: 76px;
-  }
-
-  .tf__sidebar_tags ul li a {
-    padding: 10px 16px;
-  }
-
-  /*==============================
-     BLOG DETAILS END
-    ==============================*/
-
-  /*==============================
-     BLOG LIST START
-    ==============================*/
-  .tf__pagination {
-    margin-bottom: 50px;
-  }
-
-  /*==============================
-     BLOG LIST END
     ==============================*/
 
   /*==============================
@@ -777,9 +637,11 @@
     z-index: 1;
     display: none;
   }
+
   .tf__single_service_2 .text {
     margin-top: 75px;
   }
+
   .tf__skills_2 .nav .nav-item button {
     padding: 15px 30px;
     font-size: 15px;
@@ -820,6 +682,7 @@
 }
 
 @media (min-width: 576px) and (max-width: 767.99px) {
+
   /*==============================
      HOME PAGE START
     ==============================*/
@@ -975,15 +838,19 @@
   .tf__blog_img {
     height: 300px;
   }
+
   .tf__footer_content .text h3 {
     margin-bottom: 10px;
   }
+
   .tf__footer_content .text {
     width: 78%;
   }
+
   .tf__footer_content {
     align-items: start;
   }
+
   .tf__footer_content .icon {
     display: block;
     width: 75px;
@@ -1004,82 +871,6 @@
 
   /*==============================
      HOME PAGE END
-    ==============================*/
-
-  /*==============================
-     BLOG DETAILS START
-    ==============================*/
-  .tf__breadcrum_text h1 {
-    font-size: 26px;
-    margin-bottom: 5px;
-  }
-
-  .tf__breadcrum_text ul li a {
-    font-size: 16px;
-  }
-
-  .tf__breadcrumb {
-    padding: 145px 0px 90px 0px;
-  }
-
-  .tf__blog_details_img {
-    height: 300px;
-  }
-
-  .blog_details_header li span {
-    padding: 10px 25px;
-  }
-
-  .tf__blog_details_text h2 {
-    font-size: 34px;
-  }
-
-  .details_blog_share h4 {
-    margin-bottom: 15px;
-  }
-
-  .tf__input_comment h2 {
-    font-size: 26px;
-  }
-
-  .tf__input_comment {
-    margin-bottom: 25px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 63%;
-  }
-
-  .tf__sidebar_gallery ul li {
-    width: 76px;
-    height: 76px;
-  }
-
-  .tf__sidebar_tags ul li a {
-    padding: 10px 16px;
-  }
-
-  /*==============================
-     BLOG DETAILS END
-    ==============================*/
-
-  /*==============================
-     BLOG LIST START
-    ==============================*/
-  .tf__blog_list_img {
-    height: 280px;
-  }
-
-  .tf__blog_list_text a {
-    font-size: 24px;
-  }
-
-  .tf__pagination {
-    margin-bottom: 50px;
-  }
-
-  /*==============================
-     BLOG LIST END
     ==============================*/
 
   /*==============================
@@ -1185,6 +976,7 @@
     z-index: 1;
     display: none;
   }
+
   .tf__single_service_2 .text {
     margin-top: 75px;
   }
@@ -1222,6 +1014,7 @@
 }
 
 @media (max-width: 575.99px) {
+
   /*==============================
      HOME PAGE START
     ==============================*/
@@ -1292,9 +1085,11 @@
     height: auto;
     padding-bottom: 0px;
   }
+
   .tf__banner_text ul li a {
     margin-right: 0px;
   }
+
   .tf__banner_text h1,
   .tf__banner_text h1 span {
     font-size: 48px !important;
@@ -1328,6 +1123,7 @@
     font-size: 36px;
     line-height: 45px;
   }
+
   .tf__section_heading h2 br {
     display: none;
   }
@@ -1432,10 +1228,12 @@
   .tf__subscribe_text form input {
     padding: 20px 25px;
   }
+
   .tf__footer_content {
     justify-content: center;
     text-align: center;
   }
+
   .tf__footer_content .text {
     width: 100%;
     margin-top: 15px;
@@ -1447,6 +1245,7 @@
     height: 75px;
     margin-right: 0;
   }
+
   .tf__footer_content .text h3 {
     margin-bottom: 10px;
   }
@@ -1466,111 +1265,6 @@
 
   /*==============================
      HOME PAGE END
-    ==============================*/
-
-  /*==============================
-     BLOG DETAILS START
-    ==============================*/
-  .tf__breadcrum_text h1 {
-    font-size: 26px;
-    margin-bottom: 5px;
-    width: 100%;
-  }
-
-  .tf__breadcrum_text ul li a {
-    font-size: 16px;
-  }
-
-  .tf__breadcrumb {
-    padding: 95px 0px 30px 0px
-  }
-
-  .tf__blog_details_img {
-    height: 210px;
-  }
-
-  .blog_details_header li span {
-    padding: 10px 25px;
-  }
-
-  .tf__blog_details_text h2 {
-    font-size: 28px;
-  }
-
-  .details_quot_text {
-    padding: 30px;
-  }
-
-  .details_blog_share h4 {
-    margin-bottom: 15px;
-  }
-
-  .details_blog_share .tags {
-    margin-top: 10px;
-  }
-
-  .next_prev_button li a {
-    padding: 10px 0px;
-  }
-
-  .tf__details_bloger {
-    padding: 20px;
-  }
-
-  .tf__input_comment h2 {
-    font-size: 26px;
-  }
-
-  .tf__input_comment {
-    margin-bottom: 25px;
-  }
-
-  .tf__sidebar_item {
-    padding: 25px;
-  }
-
-  .tf__sidebar_comments ul li .img {
-    margin-right: 10px;
-  }
-
-  .tf__sidebar_comments ul li .text {
-    width: 63%;
-  }
-
-  .tf__sidebar_gallery ul li {
-    width: 74px;
-    height: 74px;
-  }
-
-  .tf__sidebar_tags ul li a {
-    padding: 10px 18px;
-  }
-
-  /*==============================
-     BLOG DETAILS END
-    ==============================*/
-
-  /*==============================
-     BLOG LIST START
-    ==============================*/
-  .tf__blog_list_img {
-    height: 220px;
-  }
-
-  .tf__blog_list_img span {
-    padding: 40px 26px;
-  }
-
-  .tf__blog_list_text a {
-    font-size: 22px;
-  }
-
-  .tf__pagination {
-    margin-bottom: 50px;
-  }
-
-  /*==============================
-     BLOG LIST END
     ==============================*/
 
   /*==============================
@@ -1682,6 +1376,7 @@
     z-index: 1;
     display: none;
   }
+
   .tf__single_service_2 .text {
     margin-top: 75px;
   }
@@ -1714,6 +1409,13 @@
 
   .tf__single_skill_2 h2 {
     font-size: 16px;
+  }
+
+  .tf__about_text{
+    text-align: center;
+  }
+  .tf__about_text p{
+    text-align: left;
   }
 
   /*==============================

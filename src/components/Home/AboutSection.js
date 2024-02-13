@@ -6,7 +6,7 @@ const AboutSection = () => {
       <div className="container">
         <div className="row justify-content-between">
           <div className="col-xxl-7 col-lg-6 col-xl-6">
-            <div className="tf__section_heading pb_50 xs_pb_50">
+            <div className="tf__section_heading pb_50 xs_pb_20">
               <h5 className="has-animation">About Me</h5>
               <h2 className="has-animation">
                 Crafting digital excellence with passion and precision
