@@ -19,7 +19,7 @@ const IndexPage = () => {
       <AboutSection/>
       <SkillsSection/>
       <PortfolioSection/>
-      <MarqueeComponent/>
+      {/* <MarqueeComponent/> */}
       <TopTwoTestimonials/>
       <SubscribeComponent/>
       <Footer/>
