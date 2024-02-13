@@ -22,7 +22,7 @@ const AboutSection = () => {
             </div>
           </div>
           <div className="col-xxl-4 col-lg-6 col-xl-6">
-            <div className="tf__about_img fade_right" data-triggerid="about">
+            <div className="tf__about_img" data-triggerid="about">
               <img
                 src="assets/images/me.jpeg"
                 alt="Jahanzaib Ali Khan"
