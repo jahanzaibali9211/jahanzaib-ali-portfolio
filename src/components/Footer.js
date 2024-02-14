@@ -28,7 +28,7 @@ const Footer = () => {
                                         </div>
                                         <div className="text">
                                             <h3>Address</h3>
-                                            <p>B-53 OGDC Society, MustafaAbad Malir, Karachi, Pakistan</p>
+                                            <p>Malir, Karachi, Pakistan</p>
                                         </div>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@ const Footer = () => {
                                         </div>
                                         <div className="text">
                                             <h3>Contact</h3>
-                                            <p>+92 301 2571742</p>
+                                            <a href='https://web.whatsapp.com/send?phone=+923012571742&text=' target='_blank' rel="noreferrer">+92 301 2571742</a>
                                         </div>
                                     </div>
                                 </div>
