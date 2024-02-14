@@ -6,7 +6,6 @@ import AboutSection from './AboutSection';
 import SkillsSection from './SkillsSection';
 import PortfolioSection from './PortfolioSection';
 import TopTwoTestimonials from './TopTwoTestimonials';
-import MarqueeComponent from './MarqueeComponent';
 import SubscribeComponent from '../SubscribeComponent';
 import Footer from '../Footer';
 

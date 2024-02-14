@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import Sideform from './Sideform';
+import SocialSide from './SocialSide';
 
 const Navbar = () => {
     return (
@@ -67,6 +68,7 @@ const Navbar = () => {
                 </div>
             </nav>
             <Sideform />
+            <SocialSide/>
         </>
     );
 };
