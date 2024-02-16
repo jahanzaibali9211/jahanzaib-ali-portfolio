@@ -65,7 +65,7 @@ const PortfolioSection = () => {
                         </div>
                     </div>
                     {/* Project 3 */}
-                    <div className="col-xl-12 col-md-6">
+                    {/* <div className="col-xl-12 col-md-6">
                         <div
                             className="tf__portfolio_item play_btn"
                             data-cursor="See <br> Project"
@@ -84,7 +84,7 @@ const PortfolioSection = () => {
                             </div>
 
                         </div>
-                    </div>
+                    </div> */}
                     {/* Project 4 */}
                     <div className="col-xl-4 col-md-6">
                         <div
